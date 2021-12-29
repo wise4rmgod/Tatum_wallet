@@ -13,3 +13,7 @@ const generatefcn = async() => {
 }
 
 generatefcn()
+
+
+// to run use the command below in your terminal
+  // node address.js
