@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@tatumio/tatum": "^1.30.3"
+  },
+  "name": "tatumwallet",
+  "version": "1.0.0",
+  "description": "this ",
+  "main": "wallet.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wisdom",
+  "license": "ISC",
+  "type": "module"
+}
