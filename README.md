@@ -1,2 +1,2 @@
 # Tatum_wallet
- Creating a wallet using Tatum
+ This is an example project to help you create a bitcoin wallet using Tatum Javascript SDK
